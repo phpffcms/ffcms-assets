@@ -1,0 +1,2 @@
+jquery-form-validator: 2.3.77
+popper.js: 1.14.3

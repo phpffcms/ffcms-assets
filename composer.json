@@ -1,0 +1,25 @@
+{
+  "name": "phpffcms/ffcms-assets",
+  "description": "FFCMS 3 asset package with all builded dist from npm, bower",
+  "keywords": ["ffcms", "assets", "css", "js", "bower", "npm", "packages"],
+  "type": "project",
+  "homepage": "https://ffcms.org",
+  "license": "MIT",
+  "require": {
+    "bower-asset/popper.js": "1.*@stable",
+    "twbs/bootstrap": "4.*@stable",
+    "components/jquery": "3.*@stable",
+    "components/jqueryui": "1.*@stable",
+    "enyo/dropzone": "5.*@stable",
+    "components/font-awesome": "4.*@stable",
+    "tinymce/tinymce": "4.*@stable"
+  },
+  "authors": [
+    {
+      "name": "Mihail Pyatinskiy",
+      "email": "zenn1989@gmail.com",
+      "homepage": "http://ffcms.ru",
+      "role": "Maintainer"
+    }
+  ]
+}
