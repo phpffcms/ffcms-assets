@@ -1,0 +1,27 @@
+{
+  "name": "ffcms-assets",
+  "version": "1.0.0",
+  "description": "ffcms assets build from node",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phpffcms/ffcms-assets.git"
+  },
+  "keywords": [
+    "ffcms",
+    "dist",
+    "assets"
+  ],
+  "author": "Pyatinskiy Mihail",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phpffcms/ffcms-assets/issues"
+  },
+  "homepage": "https://ffcms.org",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "jquery-form-validation": "^1.0.2",
+    "jquery-ui": "^1.12.1",
+    "popper.js": "^1.14.3"
+  }
+}
