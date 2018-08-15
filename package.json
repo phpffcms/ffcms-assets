@@ -21,8 +21,9 @@
   "dependencies": {
     "dropzone": "^5.5.1",
     "jquery": "^3.3.1",
+    "jquery-datepicker": "^1.12.3",
     "jquery-form-validation": "^1.0.2",
-    "jquery-ui": "^1.12.1",
+    "jquery-ui-dist": "^1.12.1",
     "popper.js": "^1.14.4"
   }
 }
