@@ -7,10 +7,7 @@
   "license": "MIT",
   "require": {
     "twbs/bootstrap": "4.*@stable",
-    "components/jquery": "3.*@stable",
-    "components/jqueryui": "1.*@stable",
-    "enyo/dropzone": "5.*@stable",
-    "components/font-awesome": "4.*@stable"
+    "enyo/dropzone": "5.*@stable"
   },
   "authors": [
     {
