@@ -1,6 +1,6 @@
 {
   "name": "ffcms-assets",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "ffcms assets build from node",
   "main": "index.js",
   "repository": {
@@ -12,22 +12,23 @@
     "dist",
     "assets"
   ],
-  "author": "Pyatinskiy Mihail",
+  "author": "Piatinskii Mikhail",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/phpffcms/ffcms-assets/issues"
   },
-  "homepage": "https://ffcms.org",
+  "homepage": "https://pmcore.ru",
   "dependencies": {
-    "@fancyapps/fancybox": "^3.5.6",
-    "@fortawesome/fontawesome-free": "^5.7.2",
-    "chart.js": "^2.7.3",
-    "dropzone": "^5.5.1",
-    "jquery": "^3.3.1",
+    "@fancyapps/fancybox": "^3.5.7",
+    "@fortawesome/fontawesome-free": "^5.13.0",
+    "chart.js": "^2.9.3",
+    "dropzone": "^5.7.1",
+    "jquery": "^3.5.1",
     "jquery-datepicker": "^1.12.3",
-    "jquery-form-validation": "^1.0.3",
+    "jquery-form-validation": "^1.0.4",
     "jquery-ui-dist": "^1.12.1",
-    "popper.js": "^1.14.7",
-    "selectize": "^0.12.6"
+    "popper.js": "^1.16.1",
+    "selectize": "^0.12.6",
+    "bootstrap": "^4.5.0"
   }
 }
