@@ -1,36 +1,34 @@
 {
-  "name": "ffcms-assets",
-  "version": "1.0.5",
-  "description": "ffcms assets build from node",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/phpffcms/ffcms-assets.git"
-  },
-  "keywords": [
-    "ffcms",
-    "dist",
-    "assets"
-  ],
-  "author": "Piatinskii Mikhail",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/phpffcms/ffcms-assets/issues"
-  },
-  "homepage": "https://pmcore.ru",
-  "dependencies": {
-    "@fancyapps/fancybox": "^3.5.7",
-    "@fortawesome/fontawesome-free": "^5.13.0",
-    "bootstrap": "^4.5.0",
-    "chart.js": "^2.9.3",
-    "datatables.net-bs4": "^1.10.21",
-    "dropzone": "^5.7.1",
-    "jquery": "^3.5.1",
-    "jquery-datepicker": "^1.12.3",
-    "jquery-form-validation": "^1.0.4",
-    "jquery-ui-dist": "^1.12.1",
-    "minimist": ">=0.2.2",
-    "popper.js": "^1.16.1",
-    "selectize": "^0.12.6"
-  }
+    "name": "ffcms-assets",
+    "version": "1.0.6",
+    "description": "ffcms assets build from node",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/phpffcms/ffcms-assets.git"
+    },
+    "keywords": [
+        "ffcms",
+        "dist",
+        "assets"
+    ],
+    "author": "Piatinskii Mikhail",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/phpffcms/ffcms-assets/issues"
+    },
+    "homepage": "https://pmcore.ru",
+    "dependencies": {
+        "@fancyapps/fancybox": "^3.5.7",
+        "@fortawesome/fontawesome-free": "^5.15.4",
+        "bootstrap": "^5.1.3",
+        "chart.js": "^2.9.4",
+        "datatables.net-bs5": "^1.12.1",
+        "dropzone": "^5.9.3",
+        "jquery": "^3.6.0",
+        "jquery-datepicker": "^1.12.3",
+        "jquery-form-validation": "^1.0",
+        "jquery-ui-dist": "^1.13.1",
+        "selectize": "^0.12.6"
+    }
 }
