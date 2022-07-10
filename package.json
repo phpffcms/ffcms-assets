@@ -28,9 +28,8 @@
         "dropzone": "^5.9.3",
         "jquery": "^3.6.0",
         "jquery-datepicker": "^1.12.3",
-        "jquery-form-validation": "^1.0",
         "jquery-ui-dist": "^1.13.1",
-        "selectize": "^0.12.6",
+        "@selectize/selectize": "^0.13.6",
         "just-validate": "^3.8.1"
     }
 }
