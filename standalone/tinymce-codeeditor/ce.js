@@ -266,17 +266,17 @@
      document.body.appendChild(aceScript);
  
      let beautify = document.createElement('script');
-     beautify.src = script_url + "/vendor/phpffcms/ffcms-assets/node_modules/js-beautify/js/bin/js-beautify.js";
+     beautify.src = script_url + "/vendor/phpffcms/ffcms-assets/node_modules/js-beautify/js/lib/beautifier.min.js";
      beautify.type = "text/javascript";
      document.body.appendChild(beautify);
  
      let beautifyCss = document.createElement('script');
-     beautifyCss.src = script_url + "/vendor/phpffcms/ffcms-assets/node_modules/js-beautify/js/bin/css-beautify.js";
+     beautifyCss.src = script_url + "/vendor/phpffcms/ffcms-assets/node_modules/js-beautify/js/lib/beautify-css.js";
      beautifyCss.type = "text/javascript";
      document.body.appendChild(beautifyCss);
 
      let beautifyHtml = document.createElement('script');
-     beautifyHtml.src = script_url + "/vendor/phpffcms/ffcms-assets/node_modules/js-beautify/js/bin/html-beautify.js";
+     beautifyHtml.src = script_url + "/vendor/phpffcms/ffcms-assets/node_modules/js-beautify/js/lib/beautify-html.js";
      beautifyHtml.type = "text/javascript";
      document.body.appendChild(beautifyHtml);
  
