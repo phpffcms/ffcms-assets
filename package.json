@@ -29,6 +29,7 @@
         "jquery": "^3.6.0",
         "jquery-datepicker": "^1.12.3",
         "jquery-ui-dist": "^1.13.1",
-        "@selectize/selectize": "^0.13.6"
+        "@selectize/selectize": "^0.13.6",
+        "ace-builds": "^1.8.1"
     }
 }
