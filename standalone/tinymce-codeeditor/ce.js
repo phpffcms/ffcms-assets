@@ -261,23 +261,22 @@
      document.body.appendChild(codeeditor);
  
      let aceScript = document.createElement('script');
-     aceScript.src = "../../node_modules/ace-builds/src-noconflict/ace.js";
+     aceScript.src = script_url + "/vendor/phpffcms/ffcms-assets/node_modules/ace-builds/src-noconflict/ace.js";
      aceScript.type = "text/javascript";
-     aceScript.charset = "utf-8";
      document.body.appendChild(aceScript);
  
      let beautify = document.createElement('script');
-     beautify.src = "../../node_modules/js-beautify/js/bin/js-beautify.js";
+     beautify.src = script_url + "/vendor/phpffcms/ffcms-assets/node_modules/js-beautify/js/bin/js-beautify.js";
      beautify.type = "text/javascript";
      document.body.appendChild(beautify);
  
      let beautifyCss = document.createElement('script');
-     beautifyCss.src = "../../node_modules/js-beautify/js/bin/css-beautify.js";
+     beautifyCss.src = script_url + "/vendor/phpffcms/ffcms-assets/node_modules/js-beautify/js/bin/css-beautify.js";
      beautifyCss.type = "text/javascript";
      document.body.appendChild(beautifyCss);
 
      let beautifyHtml = document.createElement('script');
-     beautifyHtml.src = "../../node_modules/js-beautify/js/bin/html-beautify.js";
+     beautifyHtml.src = script_url + "/vendor/phpffcms/ffcms-assets/node_modules/js-beautify/js/bin/html-beautify.js";
      beautifyHtml.type = "text/javascript";
      document.body.appendChild(beautifyHtml);
  
