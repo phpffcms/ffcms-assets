@@ -32,6 +32,7 @@
         "@selectize/selectize": "^0.13.6",
         "ace-builds": "^1.8.1",
         "js-beautify": "^1.14.3",
-        "xss": "^1.0.14"
+        "xss": "^1.0.14",
+        "mdb-ui-kit": "^5.0.0"
     }
 }
